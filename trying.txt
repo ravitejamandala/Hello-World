@@ -1,1 +1,2 @@
 learning git, trying it for the first time
+second line in the first file
